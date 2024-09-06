@@ -1,4 +1,4 @@
-select *
+select 
 from FPLCleaning
 
 --Change numeric value to the players position
